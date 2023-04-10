@@ -280,6 +280,8 @@ body {
   font-size: 14px;
   line-height: 24px;
   color: #d5e0eb;
+
+  text-decoration: none;
 }
 
 .tech_skills_list {
