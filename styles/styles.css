@@ -109,12 +109,17 @@ body {
   margin-left: 10px;
 }
 .project,
-.project_link {
+.project_link,
+.name-of-project {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
   color: #4e4e4e;
+}
+
+.name-of-project {
+  font-weight: 700;
 }
 
 .project_link {
