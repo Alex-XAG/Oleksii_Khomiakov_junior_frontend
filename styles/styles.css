@@ -118,7 +118,7 @@ body {
 }
 
 .project_link {
-  display: flex;
+  display: block;
   gap: 10px;
   margin: 0;
   margin-left: 10px;
@@ -126,12 +126,21 @@ body {
 }
 .project_bracket {
   font-style: normal;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 14px;
   line-height: 24px;
   color: #000000;
 }
 
+.role-position {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #4e4e4e;
+  margin: 0;
+  margin-left: 10px;
+}
 /* work styles */
 
 .work_position {
