@@ -34,8 +34,13 @@ body {
 /* main_content */
 
 .main_content {
-  background-color: #f7ee97;
-  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
+  /* background-image: linear-gradient(
+    to right,
+    #ffffff 60%,
+    rgba(46, 122, 255, 0.5)
+  ); */
+  box-shadow: 6px 6px 0px rgba(0, 0, 0, 0.1);
   padding: 0px 40px;
 }
 
@@ -249,7 +254,7 @@ body {
 /* sideBar  styles*/
 
 .sidebar {
-  background: #2e7aff;
+  background-image: linear-gradient(to right, rgba(46, 122, 255, 0.7), #ffffff);
   /* padding-top: 40px; */
   width: 370px;
 }
@@ -346,7 +351,7 @@ a.git-hub {
 }
 
 .tech_skills_item {
-  color: #f7ee97;
+  color: #ffffff;
 }
 
 .tech_skills_text {
@@ -374,7 +379,7 @@ a.git-hub {
 
 .soft_skills_item {
   padding-right: 50px;
-  color: #f7ee97;
+  color: #ffffff;
 }
 
 .soft_skills_text {
