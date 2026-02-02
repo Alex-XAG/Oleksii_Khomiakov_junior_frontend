@@ -254,7 +254,7 @@ body {
 /* sideBar  styles*/
 
 .sidebar {
-  background-color: rgba(46, 122, 255);
+  background-color: rgb(46, 122, 255);
 
   /*  background-image: linear-gradient(to right, rgba(46, 122, 255, 0.5), #2e7aff);*/
   /* padding-top: 40px; */
